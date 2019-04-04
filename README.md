@@ -1,3 +1,12 @@
+Fork by Arvazi
+=========
+I'm a python beginner who forked this for learning purposes and work
+
+* changed code to work with python3
+* added compression of framebuffer data for faster transfer
+* added framerate and datarate count
+
+
 myDesktop
 =========
 
